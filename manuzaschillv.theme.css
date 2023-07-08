@@ -1,0 +1,51 @@
+/**
+ * @name ManuZasChill
+ * @author ManuZa#1234
+ * @version 0.6.9
+ * @description El tema de manuza uwu. inspiracion tomada del tema frosted glass, muchas gracias a gibbu y matth por enseñarme y corregir bugs.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite gZPxwJdszd
+ * @website https://twitter.com/ManuZa_UwU
+ * @authorId 689687912572256299
+ * @inspirado Frosted Glass
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/JLwdbGA.gif');
+  --background-image-blur: 6px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://i.imgur.com/aaQBFoh.png');
+  --popout-image-blur: 5px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://i.imgur.com/bg29cmy.png');
+  --overlay-image-blur: 9px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.imgur.com/f5KRI9S.png');
+  --home-button-size: 130%;
+  --home-button-position: center;
+  --serverlist-brightness: 0.88;
+  --left-brightness: 0.8;
+  --middle-brightness: 0.62;
+  --right-brightness: 0.16;
+  --overlay-brightness: 0.76;
+  --gradient-primary: 144,58,183;
+  --gradient-secondary: 102,13,209;
+  --link-colour: #FF0099;
+  --scrollbar-colour: rgb(47,0,255,0.25);
+  --gradient-direction: 296deg;
+  --tint-colour: 92,0,255;
+  --tint-brightness: 0.06;
+  --font: Whitney;
+  --window-padding: 0px;
+  --window-roundness: 7px;
+  --update-notice-1: none;
+}
+
+/* Customs css o para cambiar la fuente van aca abajo */
+
+@import url(https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.min.css); /* Fuente Original de discord, remplazala por cualquiera que vos quieras */
